@@ -1,7 +1,7 @@
 {
-  "siteTitle": "Your portfolio",
+  "siteTitle": "Irene Rus",
   "tagline": "",
-  "logoText": "Your name",
+  "logoText": "Irene Rus",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "seamless",
+    "color": {
+      "background": "#fbf9f9",
+      "surface": "#ffffff",
+      "text": "#0a0a0a",
+      "muted": "#737373",
+      "accent": "#0a0a0a",
+      "accent2": "#ff3b30",
+      "border": "#0a0a0a",
+      "link": "#0a0a0a",
+      "heading": "#0a0a0a"
+    },
+    "type": {
+      "headingFont": "Archivo",
+      "bodyFont": "Atkinson Hyperlegible",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 15,
+      "headingTransform": "none",
+      "letterSpacing": -0.02
+    },
+    "shape": {
+      "radius": 0,
+      "borderWidth": 1,
+      "shadows": "none"
+    },
+    "density": "compact",
+    "contentWidth": "wide",
+    "readingWidth": "relaxed",
+    "motion": "smooth",
+    "nav": {
+      "layout": "top"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "solid"
+    },
+    "thumb": {
+      "fit": "cover",
+      "hover": "none"
+    },
+    "gallery": {
+      "layout": "grid",
+      "size": "large",
+      "gutter": "none",
+      "caption": "hover",
+      "cardStyle": "bare",
+      "captionDetail": "full",
+      "captionOverlay": "surface",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": false
+    },
+    "hero": {
+      "enabled": false,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": true,
+      "presskit": false,
+      "commissions": false,
+      "shop": false,
+      "projects": false,
+      "stockists": false
+    }
+  }
 }
